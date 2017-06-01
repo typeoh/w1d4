@@ -4,5 +4,4 @@ var copy = [];
 items.forEach(function(item){
   copy.push(item)
 });
-function();
 console.log(copy);
