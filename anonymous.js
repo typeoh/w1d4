@@ -9,7 +9,7 @@ var input = [
 
 //first print the array input into a new array
 var result = input.map(function(result){
-return Math.sqrt(Math.pow(result.x, 2) + Math.pow(result.y, 2)).
+return Math.sqrt(Math.pow(result.x, 2) + Math.pow(result.y, 2))
 });
 console.log(result);
 
